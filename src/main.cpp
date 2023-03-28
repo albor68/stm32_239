@@ -9,7 +9,7 @@ int main () {
 
 while (true) {
 
-      gpio_toggle(GPIOE, GPIO9|GPIO11);
+    gpio_toggle(GPIOE, GPIO9|GPIO11);
 
     }
 }
